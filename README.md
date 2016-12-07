@@ -9,7 +9,7 @@
 
 - **When is the Hour of Code?**
   You can learn to program any time, but this Hour of Code event takes place December 10, 2016 from
-  11:00AM until 5:00PM.
+  11:00AM until 3:00PM.
 
 - **How long is the event?**
   Each exercise should take about one hour. You are free to do as many exercises as you like.
